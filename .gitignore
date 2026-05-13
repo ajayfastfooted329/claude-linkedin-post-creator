@@ -1,0 +1,7 @@
+# Draft posts — stay local
+posts/*.md
+!posts/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

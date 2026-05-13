@@ -1,0 +1,3 @@
+WEBHOOK_URL: YOUR_WEBHOOK_URL
+CHANNEL: #linkedin-posts
+ENABLED: false
